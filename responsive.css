@@ -1,0 +1,1292 @@
+/* Responsive Design for 757px and below */
+@media screen and (max-width: 757px) {
+    .Navber_list {
+        display: none;
+    } 
+    .menu-icon {
+        display: block;
+        margin-right: -18rem;
+    }
+    .dropdown-menu{
+        display: block;
+        position: absolute;
+        z-index: 1;
+    }
+    .logo {
+        margin-left: -19rem;
+    }
+    .header {
+        height: 30rem;
+        position: relative;
+    }
+    .title {
+        font-size: 3rem;
+        margin-left: 2rem;
+        width: 18rem;
+    }
+    .hero-img {
+        position: absolute;
+        z-index: 1;
+        margin-top: -13rem;
+        margin-left: 9rem;
+        width: 48%;
+    }
+    .header_description {
+        margin-left: 16rem;
+        margin-top: 5rem;
+        font-size: 11px;
+        width: 14rem;
+    }
+    .header-button {
+        padding: 9px 11px;
+        font-size: 10px;
+        width: 9rem;
+    }
+    .header-right {
+        margin-right: 3rem;
+        margin-top: -3rem;
+    }
+    .right-button {
+        margin-left: 88px;
+    }
+    .card-info {
+        width: 69%;
+        margin-left: 85px;
+    }
+    .card-content {
+        width: 9rem;
+        height: 6rem;
+    }
+    .date {
+        font-size: 9px;
+        margin-top: 56px;
+    }
+    .headline {
+        font-size: 10px;
+        line-height: 11px;
+        width: 8rem;
+    }
+    .category {
+        margin-left: -8rem;
+    }
+    .category-title {
+        font-size: 19px;
+    }
+    .card-header-box {
+        width: 10rem;
+        height: 60px;
+        position: relative;
+        margin-top: 49px;
+    }
+    .card-header-text {
+        position: absolute;
+        font-size: 18px;
+        margin-top: -31px;
+        margin-left: 24px;
+        z-index: 1;
+    }
+    .category-img {
+        width: 158px;
+        height: 181px;
+        margin-top: 17px;
+    }
+    .category-img-two {
+        margin-left: 17px;
+        width: 159px;
+        height: 154px;
+        margin-top: 49px;
+    }
+    .card-box-two {
+        position: relative;
+        margin-left: 17px;
+        margin-top: 13px;
+        width: 159px;
+        height: 86px;
+    }
+    .card-header-text-two {
+        position: absolute;
+        z-index: 1;
+        font-size: 17px;
+        line-height: 16px;
+        margin-top: 28px;
+        margin-left: 16px;
+        width: 8rem;
+    }
+    .card-car-box {
+        width: 10rem;
+        height: 60px;
+        position: relative;
+        margin-top: 34px;
+        margin-left: 17px;
+    }
+    .card-car-text {
+        position: absolute;
+        font-size: 18px;
+        margin-top: -31px;
+        margin-left: 24px;
+        z-index: 1;
+    }
+    .car-img {
+        width: 158px;
+        height: 181px;
+        margin-top: 17px;
+        margin-left: 17px;
+    }
+    .tennis-img {
+        margin-left: 17px;
+        width: 159px;
+        height: 154px;
+        margin-top: 49px;
+    }
+    .card-tennis-box {
+        position: relative;
+        margin-left: 17px;
+        margin-top: 13px;
+        width: 159px;
+        height: 86px;
+    }
+    .card-tennis-text {
+        position: absolute;
+        z-index: 1;
+        font-size: 17px;
+        line-height: 16px;
+        margin-top: 28px;
+        margin-left: 24px;
+        width: 7rem;
+    }
+    .trending-news {
+        margin-left: 32px;
+        width: 43rem;
+        height: 25rem;
+    }
+    .trending-news-title {
+        font-size: 16px;
+        margin-left: -12px;
+        margin-top: 10px;
+    }
+    .hose-img {
+        width: 122px;
+        margin-left: -12px;
+        height: 100px;
+    }
+    .datetime {
+        font-size: 9px;
+        margin-left: -17px;
+        margin-top: 4px;
+    }
+    .race-title {
+        font-size: 12px;
+        margin-left: -17px;
+        margin-top: 13px;
+        width: 10rem;
+    }
+    .description {
+        font-size: 10px;
+        margin-left: -17px;
+        margin-top: 7px;
+        width: 11rem;
+    }
+    .news-cycal-race {
+        margin-top: 10px;
+    }
+    .news-boxing-race {
+        margin-top: 7px;
+    }
+    .news-border {
+        margin-left: -16px;
+        width: 193px;
+        margin-top: 1px;
+    }
+    .news-border {
+        margin-left: -16px;
+        width: 193px;
+        margin-top: 1px;
+    }
+    .news-banner {
+        height: 25rem;
+        width: 20rem;
+    }
+    .banner-category {
+        font-size: 10px;
+        width: 30px;
+    }
+    .banner-date {
+        margin-top: 265px;
+        font-size: 10px;
+        width: 103px;
+        margin-left: -7px;
+    }
+    .banner-title {
+        font-size: 20px;
+        line-height: 20px;
+        width: 17rem;
+    }
+    .football-banner {
+        margin-left: 32px;
+        width: 43rem;
+        height: 18rem;
+    }
+    .football-banner-category {
+        width: 46px;
+        margin-left: 1px;
+        font-size: 12px;
+    }
+    .football-banner-date {
+        font-size: 11px;
+        width: 176px;
+        margin-left: -3px;
+        margin-top: 115px;
+    }
+    .football-banner-title {
+        font-size: 19px;
+        margin-left: 1px;
+        line-height: 19px;
+        margin-top: 14px;
+    }
+    .football-banner-description {
+        margin-top: 17px;
+        font-size: 12px;
+        margin-left: 1px;
+    }
+    .pages {
+        margin-left: 32px;
+        width: 43rem;
+    }
+    .left-back {
+        width: 52px;
+        height: 35px;
+        margin-right: 27px;
+    }
+    .number {
+        margin-right: 22px;
+        display: flex;
+        gap: 20px;
+    }
+    .right-back {
+        width: 52px;
+        height: 35px;
+        margin-right: 15px;
+    }
+    .recent-news-clubs {
+        display: flex;
+        flex-direction: column;
+    }
+    .recent-news {
+        margin-left: 126px;
+        margin-top: -70px;
+    }
+    .recent-news-title {
+        margin-left: -93px;
+    }
+    .recent-news-img {
+        margin-left: -127px;
+        width: 334px;
+    }
+    .recent-news-info {
+        margin-top: -42rem;
+        margin-left: -128px;
+        width: 336px;
+    }
+    .games-title {
+        font-size: 16px;
+    }
+    .recent-news-card-two {
+        margin-left: 267px;
+        width: 328px;
+        height: 307px;
+    }
+    .club-ranking-news {
+        margin-left: 33px;
+    }
+    .club-ranking-title {
+        font-size: 22px;
+    }
+    .club-rankking {
+        width: 43rem;
+    }
+    .sports-article {
+        margin-top: 4rem;
+    }
+    .sports-article-title {
+        margin-left: 2rem;
+    }
+    .sports {
+        display: flex;
+        flex-direction: column;
+    }
+    .sports-article-cards {
+        margin-left: 2rem;
+        width: 43rem;
+    }
+    .sports-card-title {
+        margin-left: 36rem;
+        margin-top: 29px;
+    }
+    .sports-card-img {
+        width: 43rem;
+        height: 19rem;
+    }
+    .sports-card-date {
+        margin-top: 3px;
+    }
+    .sports-card-headline {
+        width: 43rem;
+        margin-top: -5px;
+    }
+    .sports-card-description {
+        width: 43rem;
+    }
+    .sports-article-cards-two {
+        margin-top: 22px;
+        margin-left: 32px;
+    }
+    .sports-article-cards-three {
+        margin-top: 22px;
+        margin-left: 32px;
+    }
+    .back-buttons {
+        margin-left: 33px;
+        margin-top: 12px;
+    }
+    .left-backs {
+        width: 52px;
+        height: 35px;
+        margin-right: 27px;
+    }
+    .right-backs{
+        width: 52px;
+        height: 35px;
+        margin-right: 15px;
+    }
+    .newsletter {
+        margin-left: 33px;
+        width: 43rem;
+        height: 20rem;
+    }
+    .newsletter-item {
+        margin-left: 13rem;
+        margin-top: 19px;
+    }
+    .newsletter-title {
+        font-size: 35px;
+        margin-left: 0px;
+        line-height: 36px;
+        margin-top: 67px;
+    }
+    input {
+        width: 12rem;
+    }
+    .newsletter-img {
+        width: 370px;
+        margin-right: 116px;
+        margin-top: 44px;
+    }
+    .icon-copy-rights {
+        margin-left: -8rem;
+        margin-top: -15px;
+    }
+    .icons {
+        display: flex;
+        gap: 14px;
+    }
+    .copy-rights-text {
+        margin-right: 35px;
+    }
+
+}
+@media screen and (max-width:576px) {
+    /* .Navber_list {
+       display:none;
+    }
+    .list {
+        flex-direction: column;
+        gap: 10px;
+    } */
+    .header {
+        height: 56rem;
+        display: flex;
+        flex-direction: column;
+    }
+    .title {
+        font-size: 3rem;
+        margin-left: 23px;
+    }
+    .hero-img {
+        position: absolute;
+        z-index: 1;
+        margin-top: -16rem;
+        margin-left: 10rem;
+        width: 62%;
+    }
+    .header_description {
+        font-size: 13px;
+        width: 16rem;
+    }
+    .header-button {
+        padding: 9px 11px;
+        font-size: 10px;
+        width: 9rem;
+    }
+    .header-right {
+        margin-right: 1rem;
+        margin-top: -3rem;
+    }
+    .right-button {
+        margin-left: 19px;
+    }
+    .rights {
+        display: flex;
+    }
+    .card-info {
+        width: 69%;
+        margin-left: 21px;
+    }
+    .card-image img {
+        width: 250px;
+    }
+    .card-content {
+        width: 14rem;
+        height: 6rem;
+    }
+    .date {
+        font-size: 11px;
+        margin-top: 56px;
+    }
+    .headline {
+        font-size: 10px;
+        line-height: 11px;
+    }
+    .card-image {
+        width: 15rem;
+    }
+    .category-title {
+        font-size: 19px;
+        margin-left: 149px;
+        margin-top: -7rem;
+    }
+    .card-header-box {
+        width: 117px;
+        height: 40px;
+        position: relative;
+        margin-top: 34px;
+        margin-left: 150px;
+    }
+    .card-header-text {
+        position: absolute;
+        font-size: 12px;
+        margin-top: -42px;
+        margin-left: 24px;
+        z-index: 1;
+    }
+    .category-img {
+        width: 117px;
+        height: 135px;
+        margin-top: 12px;
+        margin-left: 149px;
+    }
+    .category-img-two {
+        margin-left: 14px;
+        width: 118px;
+        height: 106px;
+    }
+    .card-box-two {
+        position: relative;
+        margin-left: 13px;
+        margin-top: 9px;
+        width: 119px;
+        height: 63px;
+    }
+    .card-header-text-two {
+        position: absolute;
+        z-index: 1;
+        font-size: 11px;
+        line-height: 12px;
+        margin-top: 18px;
+        margin-left: 30px;
+    }
+    .card-car-box {
+        width: 117px;
+        height: 40px;
+        position: relative;
+        margin-top: 34px;
+        margin-left: 13px;
+    }
+    .card-car-text {
+        position: absolute;
+        font-size: 12px;
+        margin-top: -42px;
+        margin-left: 23px;
+        z-index: 1;
+    }
+    .car-img {
+        width: 117px;
+        height: 132px;
+        margin-top: 13px;
+        margin-left: 12px;
+    }
+    .tennis-img {
+        margin-left: 13px;
+        width: 138px;
+        height: 107px;
+    }
+    .card-tennis-box {
+        position: relative;
+        margin-left: 15px;
+        margin-top: 9px;
+        width: 139px;
+        height: 64px;
+    }
+    .card-tennis-text {
+        position: absolute;
+        z-index: 1;
+        font-size: 16px;
+        line-height: 12px;
+        margin-top: 18px;
+        margin-left: 38px;
+    }
+    .trending-news {
+        margin-left: 21px;
+        display: flex;
+        flex-direction: column;
+        height: 45rem;
+        width: 535px;
+    }
+    .trending-news-title {
+        font-size: 16px;
+        margin-left: -12px;
+    }
+    .hose-img {
+        width: 184px;
+        height: 100px;
+    }
+    .background-image {
+        width: 533px;
+        height: 326px;
+        border-radius: 4px;
+    }
+    .datetime {
+        font-size: 9px;
+        margin-left: -17px;
+        margin-top: 1px;
+    }
+    .race-title {
+        font-size: 12px;
+        margin-left: -17px;
+        margin-top: 13px;
+    }
+    .description {
+        font-size: 10px;
+        margin-left: -17px;
+        margin-top: -6px;
+    }
+    .news-cycal-race{
+        margin-top: 17px;
+    }
+    .news-boxing-race {
+        margin-top: 2px;
+    }
+    .news-border {
+        margin-left: -16px;
+        width: 193px;
+        margin-top: 1px;
+    }
+    .news-border {
+        margin-left: -16px;
+        width: 193px;
+        margin-top: 1px;
+    }
+    .news-banner {
+        margin-left: 1px;
+        height: 21rem;
+        width: 534px;
+    }
+    .banner-category {
+        font-size: 14px;
+        width: 53px;
+    }
+    .banner-date {
+        margin-top: 181px;
+        font-size: 10px;
+        width: 103px;
+        margin-left: -7px;
+    }
+    .banner-title {
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .football-banner {
+        margin-left: 23px;
+        width: 534px;
+        height: 13rem;
+    }
+    .football-banner-category {
+        width: 32px;
+        margin-left: -3px;
+        font-size: 10px;
+    }
+    .football-banner-date {
+        font-size: 8px;
+        width: 176px;
+        margin-left: -30px;
+        margin-top: 67px;
+    }
+    .football-banner-title {
+        font-size: 12px;
+        margin-left: -2px;
+        line-height: 16px;
+        margin-top: 9px;
+    }
+    .football-banner-description {
+        margin-top: 8px;
+        font-size: 9px;
+        margin-left: 0px;
+    }
+    .pages {
+        margin-left: 23px;
+        width: 535px;
+    }
+    .left-back {
+        width: 52px;
+        height: 35px;
+        margin-right: 27px;
+    }
+    .number {
+        margin-right: 22px;
+        display: flex;
+        gap: 20px;
+    }
+    .right-back {
+        width: 52px;
+        height: 35px;
+        margin-right: 15px;
+    }
+    .recent-news-clubs {
+        display: flex;
+        flex-direction: column;
+    }
+    .recent-news {
+        margin-left: 126px;
+        margin-top: -70px;
+    }
+    .recent-news-title {
+        margin-left: -104px;
+    }
+    .recent-news-img {
+        margin-left: -139px;
+        width: 239px;
+        height: 231px;
+    }
+    .recent-news-info {
+        margin-top: -28rem;
+        margin-left: -139px;
+        width: 239px;
+    }
+    .games-img {
+        width: 60px;
+        height: 53px;
+    }
+    .games-date {
+        font-size: 8px;
+    }
+    .games-title {
+        font-size: 12px;
+    }
+    .cricket {
+        margin-top: -27px;
+    }
+    .recent-news-card-two {
+        margin-left: 153px;
+        width: 278px;
+        height: 232px;
+    }
+    .club-ranking-news {
+        margin-left: 22px;
+    }
+    .club-ranking-title {
+        font-size: 22px;
+    }
+    .club-rankking {
+        width: 536px;
+    }
+    .sports-article {
+        margin-top: 4rem;
+    }
+    .sports-article-title {
+        margin-left: 21px;
+    }
+    .sports {
+        display: flex;
+        flex-direction: column;
+    }
+    .sports-article-cards {
+        margin-left: 21px;
+        width: 520px;
+    }
+    .sports-card-title {
+        margin-left: 27rem;
+        margin-top: 24px;
+    }
+    .sports-card-img {
+        width: 538px;
+        height: 16rem;
+    }
+    .sports-card-date {
+        margin-top: 3px;
+    }
+    .sports-card-headline {
+        width: 34rem;
+        margin-top: -10px;
+    }
+    .sports-card-description {
+        width: 34rem;
+    }
+    .sports-article-cards-two {
+        margin-top: 22px;
+        margin-left: 21px;
+    }
+    .sports-article-cards-three {
+        margin-top: 22px;
+        margin-left: 21px;
+    }
+    .sports-article-writter {
+        margin-top: 7px;
+        display: flex;
+        gap: 18px;
+    }
+    .back-buttons {
+        margin-left: 22px;
+        margin-top: 0px;
+    }
+    .left-backs {
+        width: 52px;
+        height: 35px;
+        margin-right: 27px;
+    }
+    .right-backs{
+        width: 52px;
+        height: 35px;
+        margin-right: 15px;
+    }
+    .newsletter {
+        margin-left: 22px;
+        width: 33rem;
+        height: 16rem;
+    }
+    .newsletter-item {
+        margin-left: 12rem;
+        margin-top: 19px;
+    }
+    .newsletter-title {
+        font-size: 23px;
+        margin-left: 0px;
+        line-height: 22px;
+        margin-top: 67px;
+    }
+    input {
+        width: 11rem;
+        height: 27px;
+    }
+    .search-options-button {
+        width: 30px;
+        height: 30px;
+    }
+    .newsletter-img {
+        width: 251px;
+        margin-right: 133px;
+        margin-top: 69px;
+    }
+    .newsletter-banner {
+        margin-left: 22px;
+    }
+    .icon-copy-rights {
+        margin-left: -8rem;
+        margin-top: -15px;
+    }
+    .icons {
+        display: flex;
+        gap: 14px;
+        margin-left: 150px;
+    }
+    .copy-rights-text {
+        margin-right: 26px;
+    }
+
+}
+
+
+@media screen and (max-width: 320px) {
+     /* .Navber_list {
+       display:none;
+    }
+    .list {
+        flex-direction: column;
+        gap: 10px;
+    } */
+    .header {
+        height: 56rem;
+        display: flex;
+        flex-direction: column;
+    }
+    .title {
+        font-size: 2rem;
+        margin-left: 14px;
+        width: 13rem;
+    }
+    .hero-img {
+        position: absolute;
+        z-index: 1;
+        margin-top: -133px;
+        margin-left: 109px;
+        width: 64%;
+    }
+    .header_description {
+        font-size: 10px;
+        width: 11rem;
+        margin-left: 121px;
+        margin-top: 40px;
+    }
+    .header-button {
+        padding: 9px 11px;
+        font-size: 7px;
+        width: 7rem;
+    }
+    .header-right {
+        margin-right: 1rem;
+        margin-top: -3rem;
+    }
+    .right-button {
+        margin-left: 12px;
+    }
+    .rights {
+        display: flex;
+    }
+    .card-info {
+        width: 69%;
+        margin-left: 13px;
+    }
+    .card-image img {
+        width: 138px;
+    }
+    .card-content {
+        width: 14rem;
+        height: 6rem;
+    }
+    .date {
+        font-size: 7px;
+        margin-top: 64px;
+    }
+    .headline {
+        font-size: 8px;
+        line-height: 9px;
+    }
+    .category {
+        margin-left: -138px;
+    }
+    .card-image {
+        width: 15rem;
+    }
+    .category-items{
+        display: flex;
+        flex-direction: column;
+    }
+    .category-title {
+        font-size: 19px;
+        margin-left: 149px;
+        margin-top: -24rem;
+    }
+    .card-header-box {
+        width: 298px;
+        height: 46px;
+        position: relative;
+        margin-top: 53px;
+        margin-left: 149px;
+    }
+    .card-header-text {
+        position: absolute;
+        font-size: 27px;
+        margin-top: -38px;
+        margin-left: 69px;
+        z-index: 1;
+    }
+    .category-img {
+        width: 296px;
+        height: 200px;
+        margin-top: 12px;
+        margin-left: 149px;
+    }
+    .category-img-two {
+        margin-left: 149px;
+        width: 296px;
+        height: 179px;
+        margin-top: 55px;
+    }
+    .card-box-two {
+        position: relative;
+        margin-left: 149px;
+        margin-top: 9px;
+        width: 296px;
+        height: 114px;
+    }
+    .card-header-text-two {
+        position: absolute;
+        z-index: 1;
+        font-size: 32px;
+        line-height: 26px;
+        margin-top: 32px;
+        margin-left: 28px;
+        width: 15rem;
+    }
+    .card-car-box {
+        width: 305px;
+        height: 46px;
+        position: relative;
+        margin-top: 59px;
+        margin-left: 149px;
+    }
+    .card-car-text {
+        position: absolute;
+      font-size: 27px;
+      margin-top: -38px;
+      margin-left: 69px;
+      z-index: 1;
+    }
+    .car-img {
+        margin-left: 149px;
+        width: 296px;
+        height: 179px;
+        margin-top: 14px;
+    }
+    .tennis-img {
+        margin-left: 149px;
+        width: 296px;
+        height: 179px;
+        margin-top: 56px;
+    }
+    .card-tennis-box {
+        position: relative;
+      margin-left: 149px;
+      margin-top: 9px;
+      width: 296px;
+      height: 114px;
+    }
+    .card-tennis-text {
+        position: absolute;
+        z-index: 1;
+        font-size: 32px;
+        line-height: 28px;
+        margin-top: 27px;
+        margin-left: 48px;
+        width: 13rem;
+    }
+    .trending-news {
+        margin-left: 11px;
+        display: flex;
+        flex-direction: column;
+        height: 40rem;
+        width: 293px;
+    }
+    .trending-news-title {
+        font-size: 16px;
+        margin-left: -12px;
+        margin-top: 10px;
+    }
+    .hose-img {
+        width: 95px;
+        height: 80px;
+    }
+    .background-image {
+        width: 293px;
+        height: 323px;
+        border-radius: 4px;
+    }
+    .datetime {
+        font-size: 9px;
+        margin-left: -17px;
+        margin-top: 1px;
+    }
+    .race-title {
+	font-size: 9px;
+	margin-left: -17px;
+	margin-top: 12px;
+	width: 10rem;
+    }
+    .description {
+        font-size: 8px;
+        margin-left: -17px;
+        margin-top: 8px;
+        width: 9rem;
+    }
+    .news-cycal-race{
+        margin-top: 10px;
+    }
+    .news-boxing-race {
+        margin-top: 10px;
+    }
+    .news-border {
+        margin-left: -16px;
+        width: 193px;
+        margin-top: 1px;
+    }
+    .news-banner {
+        margin-left: 1px;
+        height: 20rem;
+        width: 293px;
+        margin-top: 21px;
+    }
+    .banner-category {
+        font-size: 14px;
+        width: 53px;
+    }
+    .banner-date {
+        margin-top: 181px;
+        font-size: 10px;
+        width: 103px;
+        margin-left: -7px;
+    }
+    .banner-title {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .football-banner {
+        margin-left: 12px;
+        width: 295px;
+        height: 13rem;
+    }
+    .football-banner-category {
+        width: 32px;
+        margin-left: -3px;
+        font-size: 10px;
+    }
+    .football-banner-image{
+        width: 295px;
+    }
+    .football-banner-date {
+        font-size: 8px;
+        width: 176px;
+        margin-left: -30px;
+        margin-top: 67px;
+    }
+    .football-banner-title {
+        font-size: 10px;
+        margin-left: -2px;
+        line-height: 14px;
+        margin-top: 9px;
+    }
+    .football-banner-description {
+        margin-top: 8px;
+        font-size: 8px;
+        margin-left: 0px;
+    }
+    .pages {
+        margin-left: 11px;
+        width: 296px;
+    }
+    .left-back {
+        width: 52px;
+        height: 35px;
+        margin-right: 27px;
+    }
+    .number {
+        margin-right: 22px;
+        display: flex;
+        gap: 20px;
+    }
+    .right-back {
+        width: 52px;
+        height: 35px;
+        margin-right: 15px;
+    }
+    .recent-news-clubs {
+        display: flex;
+        flex-direction: column;
+    }
+    .recent-news {
+        display: flex;
+        flex-direction:column;
+    }
+    .recent-news-title {
+        margin-left: -107px;
+    }
+    .recent-news-img {
+        margin-left: -147px;
+        width: 293px;
+        height: 231px;
+    }
+    .recent-news-info {
+        margin-top: 259px;
+        margin-left: -147px;
+        width: 293px;
+    }
+    .games-img {
+        width: 60px;
+        height: 53px;
+    }
+    .games-date {
+        font-size: 8px;
+    }
+    .games-title {
+        font-size: 12px;
+    }
+    .cricket {
+        margin-top: 0px;
+    }
+    .recent-news-card-two {
+        margin-left: -114px;
+        width: 293px;
+        height: 256px;
+        margin-top: 247px;
+    }
+    .club-ranking-news {
+        margin-left: 11px;
+    }
+    .club-ranking-title {
+        font-size: 22px;
+    }
+    .club-rankking {
+        width: 297px;
+    }
+    .clubs {
+        display: flex;
+        justify-content: space-between;
+        margin-left: 10px;
+    }
+    .club-name {
+        margin-top: 2px;
+        font-size: 7px;
+    }
+    .club {
+        display: flex;
+        justify-content: space-between;
+        margin-left: 10px;
+        gap: 53px;
+    }
+    .club-img {
+        width: 16px;
+        height: 18px;
+    }
+    .club-info {
+        display: flex;
+        gap: 4px;
+    }
+    .points {
+        display: flex;
+        gap: 6px;
+    }
+    .points {
+        display: flex;
+        gap: 8px;
+    }
+    .point {
+        display: flex;
+        gap: 6px;
+    }
+    .sports-article {
+        margin-top: 4rem;
+    }
+    .sports-article-title {
+        margin-left: 12px;
+    }
+    .sports {
+        display: flex;
+        flex-direction: column;
+    }
+    .sports-article-cards {
+        margin-left: 12px;
+        width: 297px;
+    }
+    .sports-card-title {
+        margin-left: 27rem;
+        margin-top: 24px;
+    }
+    .sports-card-img {
+        width: 297px;
+        height: 13rem;
+    }
+    .sports-card-date {
+        margin-top: 6px;
+    }
+    .sports-card-headline {
+        width: 19rem;
+        margin-top: 4px;
+    }
+    .sports-card-description {
+        width: 18rem;
+        margin-top: 9px;
+    }
+    .sports-article-cards-two {
+        margin-top: 22px;
+        margin-left: 12px;
+    }
+    .sports-article-cards-three {
+        margin-top: 22px;
+        margin-left: 12px;
+    }
+    .sports-article-writter {
+        margin-top: 7px;
+        display: flex;
+        gap: 18px;
+    }
+    .back-buttons {
+        margin-left: 22px;
+        margin-top: 0px;
+    }
+    .left-backs {
+        width: 52px;
+        height: 35px;
+        margin-right: 27px;
+    }
+    .right-backs{
+        width: 52px;
+        height: 35px;
+        margin-right: 15px;
+    }
+    .newsletter {
+        margin-left: 13px;
+        width: 297px;
+        height: 11rem;
+    }
+    .newsletter-item {
+        margin-left: 23rem;
+        margin-top: 19px;
+    }
+    .newsletter-title {
+        font-size: 13px;
+        margin-left: 0px;
+        line-height: 14px;
+        margin-top: 36px;
+    }
+    input {
+        width: 5rem;
+        padding: 5px 0;
+    }
+    .search-options-button {
+        width: 18px;
+        padding: 4px;
+    }
+    .newsletter-img {
+        width: 148px;
+        margin-right: 343px;
+        margin-top: 65px;
+    }
+    .newsletter-banner {
+        margin-left: 22px;
+    }
+    .icon-copy-rights {
+        display: flex;
+        gap: 84px;
+    }
+    .icons {
+        display: flex;
+        gap: 14px;
+        margin-left: 140px;
+    }
+    .icon{
+        width: 30px;
+        height: 30px;
+    }
+    .copy-rights-text {
+        margin-top: 21px;
+    }
+
+    
+} 
